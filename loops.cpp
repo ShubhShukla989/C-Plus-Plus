@@ -50,19 +50,48 @@
 //     cout<<"The largest factor of "<<n<<" is "<<f;
     
 // }
-#include <iostream>
-using namespace std;    
-int main(){
-    int n;
-    cout<<"Enter a number:"<<endl;
-    cin>>n;
+// #include <iostream>
+// using namespace std;    
+// int main(){
+//     int n;
+//     cout<<"Enter a number:"<<endl;
+//     cin>>n;
     
-    for (int i =n/2; i >=1; i++)
-    {
-      if (n%i==0) 
-     { 
-      break;}
-    }
-    cout<<"The largest factor of "<<n<<" is "<<f;
+//     for (int i =n/2; i >=1; i--)
+//     {
+//       if (n%i==0) 
+//      { 
+//       break;}
+//     }
+//     cout<<"The largest factor of "<<n<<" is "<<f;
     
-}
+// }
+
+
+// while loop
+
+// #include <iostream>
+// using namespace std;        
+// int main(){
+
+//     int i=1;
+//     while (i<=10)
+//     {
+//         cout<<i<<endl;
+//         i++;
+//     }
+    
+    
+// }
+
+// do while loop
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int i=1;
+//     do
+//     {
+//         cout<<i<<endl;
+//         i++;
+//     } while (i<=10);
+// }
